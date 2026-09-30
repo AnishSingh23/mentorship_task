@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1790743839667_0_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "com.practice.fe.empdetails",
+    "packageName": "",
+    "content": {
+        "property": "exportType",
+        "newValue": "UI5ClientPDF"
+    },
+    "selector": {
+        "id": "com.practice.fe.empdetails::sap.suite.ui.generic.template.ListReport.view.ListReport::Employees--listReport",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smarttable.SmartTable"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/com.practice.fe.empdetails/changes/",
+    "projectId": "",
+    "creation": 1790743839667,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.152.0",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}

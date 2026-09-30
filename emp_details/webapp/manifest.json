@@ -118,7 +118,7 @@
           "name": "sap.suite.ui.generic.template.ListReport",
           "list": true,
           "settings": {
-            "condensedTableLayout": true,
+            "condensedTableLayout": false,
             "smartVariantManagement": true,
             "enableTableFilterInPageVariant": true,
             "filterSettings": {
@@ -127,7 +127,9 @@
               }
             },
             "tableSettings": {
-              "type": "GridTable"
+              "type": "GridTable",
+              "multiSelect": true,
+              "selectionLimit": 13
             }
           }
         },
